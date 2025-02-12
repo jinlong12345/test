@@ -124,5 +124,5 @@ function showPopupImage() {
   popupImg.classList.remove("hidden");
   setTimeout(() => {
     popupImg.classList.add("hidden");
-  }, 220);
+  }, 2000);
 }
