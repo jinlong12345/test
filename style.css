@@ -115,3 +115,12 @@ body {
 .hidden {
   display: none;
 }
+
+.permanent-hidden-images-container {
+  display: none; /* Keep this container completely hidden */
+}
+
+.permanent-hidden-img {
+  display: none; /* Ensure these images remain hidden */
+}
+
