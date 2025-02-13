@@ -21,7 +21,7 @@ noButton.addEventListener("click", function () {
 });
 
 function handleYesClick() {
-  titleElement.innerHTML = "YAYYYY!!! v(=∩_∩=)ﾌ";
+  titleElement.innerHTML = "YAYYYY!!!<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SEE YOU SOON v(=∩_∩=)ﾌ";
   changeImage("yes");
   
   // Show all hidden images at the same time
